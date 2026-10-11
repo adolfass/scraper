@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+*.log.*
+*.bak
+
+# Collected data (large, reproducible; not part of the code)
+*.jsonl
+*.xlsx
+*.json
